@@ -308,7 +308,7 @@ QtObject {
                                           "DP": "#E41D25",
                                           "ECA": "#A915DC",
                                           "QTUM": "#2E9AD0",
-                                          "CIPHS: "#e3d000
+                                          "CIPHS": "#e3d000",
                                           "CHIPS": "#598182",
                                           "AXE": "#C63877",
                                           "PANGEA": "#D88245",
