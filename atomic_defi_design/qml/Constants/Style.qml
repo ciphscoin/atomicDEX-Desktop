@@ -307,7 +307,7 @@ QtObject {
                                           "NAV": "#7D59B5",
                                           "DP": "#E41D25",
                                           "ECA": "#A915DC",
-                                          "QTUM": "#2E9AD0",                                      
+                                          "QTUM": "#2E9AD0",
                                           "CHIPS": "#598182",
                                           "AXE": "#C63877",
                                           "PANGEA": "#D88245",
@@ -415,6 +415,7 @@ QtObject {
                                           "ZET": "#155169",
                                           "ZIL": "#42BBB9",
                                           "ZRX": "#302C2C",
-                                          "UNI": "#FF007A"
+                                          "UNI": "#FF007A",
+										  "CIPHS": "#E3D000"
                                       })
 }
