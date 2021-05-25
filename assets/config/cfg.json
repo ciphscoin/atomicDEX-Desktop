@@ -41,7 +41,8 @@
     "KMD": "KMD",
     "BTC": "₿",
     "BTC_ALT": "฿",
-    "LTC": "Ł"
+    "LTC": "Ł",
+	"CIPHS": "CIPHS"
   },
   "available_fiat": [
     "USD",
@@ -80,8 +81,8 @@
   ],
   "possible_currencies": [
     "USD",
-    "BTC",
     "KMD",
-    "LTC"
+    "LTC",
+	"CIPHS"
   ]
 }
